@@ -1,0 +1,58 @@
+{
+  "name": "#10",
+  "description": "1,111 Gen 2 Crazy Huskies ready to take over the Solana Ecosystem.",
+  "external_url": "",
+  "image": "10.gif",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "Ghost"
+    },
+    {
+      "trait_type": "Back",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "Scared"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Bowtie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "None"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "10.gif",
+        "type": "image/gif"
+      }
+    ],
+    "creators": []
+  },
+  "compiler": "https://nft-generator.art"
+}
